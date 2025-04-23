@@ -54,12 +54,10 @@ python app.py
 Send POST requests to: `https://nikpatil-email-classification-for-support-team.hf.space/classify`
 
 
-## Understanding the Categories
+## 📄 Technical Report
 
-1. **Incident**: Unplanned interruption or reduction in quality of service (e.g., system outage, error)
-2. **Request**: Formal request for something to be provided (e.g., password reset, access request)
-3. **Problem**: Underlying cause of one or more incidents (e.g., recurring issues, root cause analysis)
-4. **Change**: Addition, modification, or removal of authorized systems (e.g., software update, configuration change)
+You can find the detailed technical report [here](/Technical_Report.pdf).
+
 
 ## Privacy & Security
 - All PII is masked before processing
