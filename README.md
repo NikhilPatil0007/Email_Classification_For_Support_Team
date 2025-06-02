@@ -1,4 +1,4 @@
-# Email Classification API for Support Teams
+# Email Classification & PII Processing System for IT Support Automation
 
 ## Introduction
 This API classifies support emails into four ITIL categories (Incident, Request, Problem, Change) using a fine-tuned DeBERTa model. The service automatically masks personally identifiable information (PII) before processing, ensuring privacy compliance.
@@ -26,7 +26,7 @@ This API classifies support emails into four ITIL categories (Incident, Request,
 * PyTorch
 * Transformers library
 * PII masking utilities
-* Internet connection for initial model download
+
 
 ## How to Run
 
