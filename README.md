@@ -23,6 +23,7 @@ This API classifies support emails into four ITIL categories (Incident, Request,
 ## Software Requirements
 * Python 3.8+
 * Flask
+* Spacy
 * PyTorch
 * Transformers library
 * PII masking utilities
